@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorUI", "BlazorUI\BlazorUI.csproj", "{BFB072B6-683D-459D-8067-EB6423A1943C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoLibrary", "DemoLibrary\DemoLibrary.csproj", "{F86A00BF-E148-44B5-BAB1-C48A6598275C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoApi", "DemoApi\DemoApi.csproj", "{449699BB-1CCF-42A2-9324-E2EE70C6A2FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFB072B6-683D-459D-8067-EB6423A1943C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFB072B6-683D-459D-8067-EB6423A1943C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFB072B6-683D-459D-8067-EB6423A1943C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFB072B6-683D-459D-8067-EB6423A1943C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F86A00BF-E148-44B5-BAB1-C48A6598275C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F86A00BF-E148-44B5-BAB1-C48A6598275C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F86A00BF-E148-44B5-BAB1-C48A6598275C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F86A00BF-E148-44B5-BAB1-C48A6598275C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{449699BB-1CCF-42A2-9324-E2EE70C6A2FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{449699BB-1CCF-42A2-9324-E2EE70C6A2FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{449699BB-1CCF-42A2-9324-E2EE70C6A2FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{449699BB-1CCF-42A2-9324-E2EE70C6A2FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB334406-F329-44CF-BCEB-43A8EA350347}
+	EndGlobalSection
+EndGlobal
